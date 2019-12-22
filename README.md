@@ -1,3 +1,3 @@
 # GeekBench
 
-A chrome extension to quick launch your linkedin and other profiles.
+A chrome extension to easily access your linkedin and other profiles.
