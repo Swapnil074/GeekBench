@@ -4,11 +4,11 @@
     "name": "GeekBench",
     "description": "Quick launch your geek profiles",
     "version": "1.0.0",
-    "content_security_policy":"script-src 'self' https://code.iconify.design/1/1.0.3/iconify.min.js; object-src 'self'" ,
     "icons": { "128": "icon_128.png"},
     "browser_action": {
       "default_icon": "icon.png",
       "default_popup": "popup.html"
     },
-    "permissions": ["activeTab"]
+    "permissions": ["activeTab"],
+    "content_security_policy":"default-src 'self' https://*.iconify.design"
   }
