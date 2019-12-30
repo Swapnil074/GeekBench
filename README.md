@@ -1,7 +1,9 @@
 # GeekBench
 
 A chrome extension to easily access your linkedin and other profiles.
-
+   
+   Setting up the extension:
+   
     Get all the files in a single folder, then : 
     1. Go to chrome://extensions on your browser. 
     2. Turn on the developer mode. 
